@@ -30,7 +30,7 @@ loves problem solving and cares about writing readable as well as maintainable c
 </p>
 
 ```python
-class AbhigyanTrips():
+class EldhoPaulose():
 
   def __init__(self):
     self.name = "Eldho paulose";
