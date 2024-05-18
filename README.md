@@ -3,7 +3,7 @@
 <p><img align="right" height="1%" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Eldho Paulose" /></p>
 
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=ffff&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+stack+Flutter+developer;I'm+a+competitive+programmer;I'm+a+fast+learner" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=ffb400&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+stack+Flutter+developer;I'm+a+competitive+programmer;I'm+a+fast+learner" /></a>
 </p>
 <h3 align="center">Tech Stack 🍗:</h3>
 <p align="center">
