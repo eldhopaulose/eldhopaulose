@@ -60,12 +60,16 @@ class EldhoPaulose:
         self.portfolio = ["https://github.com/eldhopaulose"]
         self.workingOn = [
         "As a full-stack developer, I specialize in creating robust and efficient applications using a modern tech stack.
-	 With expertise in Flutter for cross-platform mobile app development, Go for building scalable and high-performance backend services,
-	and Node.js with TypeScript for dynamic and secure web applications,
-	I can deliver end-to-end solutions that seamlessly integrate front-end and back-end components."
+	 With expertise in Flutter for cross-platform mobile app development,
+	 Go for building scalable and high-performance backend services,
+	 and Node.js with TypeScript for dynamic and secure web applications,
+	 I can deliver end-to-end solutions that seamlessly integrate front-end and back-end components."
         ]
         self.learning = [
-            "Flutter", "Dart", "Flutter_Bloc", "Riverpod", "Get X", "HTML5", "CSS3", "JavaScript", "Git",  "Node.js", "Firebase", "React", "Tailwind CSS", "Express", "TypeScript", "Go", "MongoDB", "PostgreSQL", "AWS", "Python", "C"
+            "Flutter", "Dart", "Flutter_Bloc", "Riverpod", "Get X", "HTML5",
+            "CSS3", "JavaScript", "Git",  "Node.js", "Firebase", "React",
+            "Tailwind CSS", "Express", "TypeScript", "Go", "MongoDB",
+ 	    "PostgreSQL", "AWS", "Python", "C"
         ]
         self.hobbies = {
             "major": {
