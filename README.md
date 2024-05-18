@@ -13,7 +13,7 @@
  <img alt="Android" src="https://img.shields.io/badge/-Android-ffb400?style=flat-square&logo=android&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-ffb400?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-ffb400?style=flat-square&logo=dart&logoColor=white" />
-  <img alt="Flutter_Bloc" src="https://img.shields.io/badge/-Flutter Bloc-ffb400?style=flat-square&logo=flutter&logoColor=white
+  <img alt="Flutter_Bloc" src="https://img.shields.io/badge/-Bloc-ffb400?style=flat-square&logo=flutter&logoColor=white
   " />
   <img alt="Riverpod" src="https://img.shields.io/badge/-Riverpod-ffb400?style=flat-square&logo=flutter&logoColor=white" />
     <img alt="Get_X" src="https://img.shields.io/badge/-Get_X-ffb400?style=flat-square&logo=getX&logoColor=white" />
