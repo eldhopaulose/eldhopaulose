@@ -1,6 +1,6 @@
-<p><img align="right" height="1%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" alt="Eldho Paulose" /></p>
-
 [![](https://visitcount.itsvg.in/api?id=eldhopaulose&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p><img align="right" height="1%" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Eldho Paulose" /></p>
 
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=ffff&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+stack+Flutter+developer;I'm+a+competitive+programmer;I'm+a+fast+learner" /></a>
