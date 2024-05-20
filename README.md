@@ -55,7 +55,7 @@ class EldhoPaulose:
         self.twitter = "eldhopaulose025"
         self.linkedin = "eldho-paulose-8b7b10190"
         self.instagram = "eldhopaulo"
-        self.web = "www"
+        self.web = "eldhopaulose.info"
         self.contact = ["eldhopaulose0485@gmail.com"]
         self.portfolio = ["https://github.com/eldhopaulose"]
         self.workingOn = [
