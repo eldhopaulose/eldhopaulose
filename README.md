@@ -16,8 +16,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Flutter+%7C+Go+%7C+TypeScript+%7C+Node.js;Building+scalable+full-stack+apps;Cross-platform+%E2%86%92+Cloud-ready;Open+to+collaborate+%F0%9F%9A%80)](https://github.com/eldhopaulose)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=eldhopaulose&icon=5&color=6)
-
 </div>
 
 ---
